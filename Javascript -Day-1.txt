@@ -1,0 +1,13 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2?
+
+HTTP1.1:
+	The standardized protocol
+	It works on the textual format.
+HTTP2: 
+	A protocol for greater performance
+	It works on the binary protocol.
+	HTTP/2 Server Push
+	Request multiplexing over a single TCP connection
+	
+	
+	
